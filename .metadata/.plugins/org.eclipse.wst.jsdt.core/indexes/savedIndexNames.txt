@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\krish\Documents\WPS-ass2\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2103295380.index
+1110399184.index
+2756651758.index
+507028005.index
+561723859.index
+3169450773.index
+1669238097.index
+1648109672.index

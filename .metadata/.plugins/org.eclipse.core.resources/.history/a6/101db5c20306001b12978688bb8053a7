@@ -1,0 +1,10 @@
+package pack;
+
+public class Stack1 extends Stack{
+	Stack1(){
+		super();
+	}
+	public void clear() {
+		
+	}
+}

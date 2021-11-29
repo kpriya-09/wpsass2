@@ -1,0 +1,27 @@
+package pack;
+
+public class Stack implements IntStack {
+	int top;
+	int s[];
+	Stack(){
+		top=-1;
+		s=new int[10];
+	}
+	public void push(int item) {
+		if (top==9) {
+			System.out.println("Stack is full");
+		}
+		else {
+			top++;
+			s[top]=item;
+		}
+	}
+	public int pop() {
+		if (top==-1) {
+			System.out.println("Stack is empty");
+			return -99;
+		}
+		top--;
+		return (s[top]);
+	}
+}

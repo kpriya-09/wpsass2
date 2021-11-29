@@ -1,0 +1,7 @@
+127.0.0.1 - - [29/Nov/2021:20:28:30 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [29/Nov/2021:20:28:36 +0530] "GET /bookTickets/login HTTP/1.1" 405 751
+0:0:0:0:0:0:0:1 - - [29/Nov/2021:20:29:20 +0530] "GET /bookTickets/login.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [29/Nov/2021:20:29:34 +0530] "GET /bookTickets/login.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [29/Nov/2021:20:29:36 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [29/Nov/2021:20:29:44 +0530] "POST /bookTickets/login HTTP/1.1" 200 534
+0:0:0:0:0:0:0:1 - - [29/Nov/2021:20:32:48 +0530] "POST /bookTickets/Booked HTTP/1.1" 200 -

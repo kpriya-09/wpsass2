@@ -1,0 +1,15 @@
+package pack;
+
+public class Stack {
+	int top;
+	int s[];
+	Stack(){
+		top=-1;
+		s=new int[10];
+	}
+	public void push(int item) {
+		if (top==9) {
+			System.out.println("");
+		}
+	}
+}
